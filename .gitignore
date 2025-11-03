@@ -1,0 +1,21 @@
+# Python virtual environments
+venv/
+backend/venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node + React
+node_modules/
+frontend/node_modules/
+
+# Flask build/static
+uploads/
+static/results/
+models/
+
+# Environment and system
+.DS_Store
+.env
